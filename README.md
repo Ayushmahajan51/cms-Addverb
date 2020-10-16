@@ -1,7 +1,7 @@
 # Student Management Sytem
  Note:- This is my ongoing project, so it's not complete yet.
 
-A Full Stack Web Application built with Node.js, Express.js, MongoDB and Bootstrap for managing all the tasks and activities of a student within an Institution.
+A Full Stack Web Application built with ReactJS, Node.js, Express.js, MongoDB and Bootstrap for managing all the tasks and activities of a student within an Institution.
 
 # Modules
 
@@ -16,10 +16,13 @@ A Full Stack Web Application built with Node.js, Express.js, MongoDB and Bootstr
         b. Editing an existing course.
         c. Deleting a course.
   - Fee Details.
+        a.Add fee
+        b.Pay Fee
+        c.Pending fee
   - Marks and Grades.
   - Attendance.
 
-### Technology Stack Used
+#### Technology Stack Used
 
 This project uses a number of open source tools, technologies and frameworks to work properly:
 
@@ -28,11 +31,12 @@ This project uses a number of open source tools, technologies and frameworks to 
 * [node.js](https://www.nodejs.org) - Evented I/O for the backend. Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Express](https://www.expressjs.com) - Express is a minimal and flexible Node.js web application framework.
 * [Html, CSS, JavaScript](#)
+* [ReactJS]
 * [MongoDB](https://www.mongodb.com)
 
-### Installation
+#### Installation
 
-This project requires [Node.js](https://nodejs.org/) v10+ to run.
+This project requires [Node.js](https://nodejs.org/) to run.
 
 Install the dependencies and devDependencies and start the server.
 
